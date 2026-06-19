@@ -15,9 +15,7 @@
 
 <br/>
 
-I turn messy datasets into clear decisions — and build systems to act on them.
-CS student at **Sukkur IBA**, focused on data science and backend development.
-
+Building projects, solving problems, and continuously improving one commit at a time.
 ---
 
 ### ✦ Projects
