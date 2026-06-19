@@ -1,45 +1,77 @@
-<h1 align="center">Ritika Lund</h1>
+<div align="center">
 
-<p align="center">
-CS Student at Sukkur IBA &nbsp;·&nbsp; Data Science &amp; Backend &nbsp;·&nbsp; Pakistan
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=E8B4A0,F5CBA7,FDEBD0&height=130&section=header&text=Ritika%20Lund&fontSize=46&fontColor=5C3D2E&fontAlignY=65&animation=fadeIn" />
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/ritika-lund">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" />
-  </a>
-  &nbsp;
-  <img src="https://komarev.com/ghpvc/?username=Ritika-Lund&style=flat-square&color=6e40c9&label=profile+views" />
-</p>
+<br/>
 
----
+**CS Student · Sukkur IBA** &nbsp;|&nbsp; Data Science & Backend &nbsp;|&nbsp; Pakistan
 
-I analyze data to find what's actually going on — and build backend systems to act on it. Currently a CS student at Sukkur IBA
+<br/>
 
----
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ritika%20Lund-c9956c?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ritika-lund)&nbsp;
+[![Profile Views](https://komarev.com/ghpvc/?username=Ritika-Lund&style=flat-square&color=c9956c&label=visitors)](https://github.com/Ritika-Lund)
 
-## Projects
+</div>
 
-**[Netflix Data Analysis](https://github.com/Ritika-Lund/Netflix-Project-)** &nbsp;`Python` `Pandas` `Seaborn`
+<br/>
 
-Explored 9,000+ movie records to answer real business questions — most-filmed years, genre dominance, popularity outliers. Built entirely with EDA, no fluff.
+I turn messy datasets into clear decisions — and build systems to act on them.
+CS student at **Sukkur IBA**, focused on data science and backend development.
 
 ---
 
-**[Automated Exam Scheduler](https://github.com/Ritika-Lund/Automated-Exam-Schedular)** &nbsp;`Java` `JavaFX`
+### ✦ Projects
 
-Constraint-based scheduler that uses backtracking to generate conflict-free exam timetables. Exports to PDF. Solves a real problem every university has.
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**📊 Netflix Data Analysis**&nbsp;
+[![Repo](https://img.shields.io/badge/view-c9956c?style=flat-square&logo=github&logoColor=white)](https://github.com/Ritika-Lund/Netflix-Project-)
+
+Analyzed 9,000+ movie records to surface genre trends, popularity outliers, and release patterns. Answered real business questions through EDA.
+
+`Python` · `Pandas` · `Seaborn` · `Matplotlib`
+
+</td>
+<td width="50%" valign="top">
+
+**📅 Automated Exam Scheduler**&nbsp;
+[![Repo](https://img.shields.io/badge/view-c9956c?style=flat-square&logo=github&logoColor=white)](https://github.com/Ritika-Lund/Automated-Exam-Schedular)
+
+Backtracking algorithm that generates conflict-free exam timetables with PDF export. Solves a real scheduling problem universities face every semester.
+
+`Java` · `JavaFX` · `Algorithms`
+
+</td>
+</tr>
+<tr>
+<td colspan="2" valign="top">
+
+
+
+### ✦ Stack
+
+<div align="center">
+
+![Python](https://img.shields.io/badge/Python-c9956c?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-c9956c?style=flat-square&logo=openjdk&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-c9956c?style=flat-square&logo=mysql&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-c9956c?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-c9956c?style=flat-square&logo=numpy&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-c9956c?style=flat-square&logo=jupyter&logoColor=white)
+![Git](https://img.shields.io/badge/Git-c9956c?style=flat-square&logo=git&logoColor=white)
+
+</div>
 
 ---
 
+<div align="center">
 
-## Stack
+*Open to internships & collaborations*
 
-`Python` `Java` `SQL` `Pandas` `NumPy` `Matplotlib` `Seaborn` `Jupyter` `Git`
+[![Let's Connect](https://img.shields.io/badge/Let's%20Connect-c9956c?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ritika-lund)
 
----
+<img src="https://capsule-render.vercel.app/api?type=waving&color=E8B4A0,F5CBA7,FDEBD0&height=80&section=footer" />
 
-<p align="center">
-  Open to internships &nbsp;·&nbsp;
-  <a href="https://www.linkedin.com/in/ritika-lund">Let's connect</a>
-</p>
+</div>
