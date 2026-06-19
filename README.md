@@ -73,4 +73,3 @@ I'm open to **internship opportunities**, **collaborations**, and just great con
 
 ---
 
-<p align="center"><i>"Data is not just numbers — it's stories waiting to be told."</i></p>
