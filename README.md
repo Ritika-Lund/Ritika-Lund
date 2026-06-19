@@ -16,7 +16,6 @@
 ## 👩‍💻 About Me
 
 - 🎓 Studying Computer Science at **Sukkur IBA University**
-- 🔭 Currently building **Retrace** — a personal web project *(coming soon)*
 - 📊 Passionate about **Data Science**, **EDA**, and **Backend Development**
 - 🌱 Always learning, always shipping
 
@@ -54,8 +53,6 @@
 ### 📅 [Automated Exam Scheduler](https://github.com/Ritika-Lund/Automated-Exam-Schedular)
 > A JavaFX desktop app that uses backtracking to generate conflict-free exam schedules with PDF export functionality.
 
-### 🔍 Retrace *(Private — Coming Soon)*
-> A web project currently in development. Stay tuned!
 
 ---
 
