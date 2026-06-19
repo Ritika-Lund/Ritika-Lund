@@ -14,8 +14,8 @@
 </div>
 
 <br/>
-
 Building projects, solving problems, and continuously improving one commit at a time.
+
 ---
 
 ### ✦ Projects
@@ -47,6 +47,11 @@ Backtracking algorithm that generates conflict-free exam timetables with PDF exp
 <td colspan="2" valign="top">
 
 
+</td>
+</tr>
+</table>
+
+---
 
 ### ✦ Stack
 
