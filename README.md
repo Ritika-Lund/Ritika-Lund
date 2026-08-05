@@ -1,6 +1,6 @@
 <h1 align="center">Ritika Lund </h1>
 <p align="center">
-  <b>CS Student at Sukkur IBA</b> · <b>Data Science & Backend Enthusiast</b>
+  <b>CS Student at Sukkur IBA</b> · <b>Full-Stack Developer · AI Products · Data Science</b>
 </p>
 <p align="center">
   <i>Building projects, solving problems, and continuously improving one commit at a time.</i>
@@ -44,9 +44,17 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 
+**Web & AI**
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=black)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ---
 
 ## 🚀 Featured Projects
+
+### 🤖 [Retrace](https://github.com/Ritika-Lund/Retrace) — [Live](https://retrace-bay.vercel.app)
+> AI-powered technical interview simulator that reads your GitHub repository and interviews you about the code you actually wrote. Built with Next.js, FastAPI, Groq, and Supabase. Features spaced repetition to track and eliminate your weak spots over time.
 
 ### 📊 [Netflix Data Analysis](https://github.com/Ritika-Lund/Netflix-Project-)
 > Analyzed 9,000+ movies to uncover genre trends, popularity patterns, and business insights using Python, Pandas, and Seaborn.
